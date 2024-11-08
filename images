@@ -1,0 +1,1 @@
+os.makedirs('images', exist_ok=True)
